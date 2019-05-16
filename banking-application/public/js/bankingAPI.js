@@ -1,3 +1,4 @@
+
 /*
  * @author : Alexis Chretienne
  * @email : alexis.chretienne@fr.ibm.com
@@ -11,11 +12,11 @@ var url_api_devloper_portal = "https://api.us.apiconnect.ibmcloud.com/spbodieusi
 
 
 // Your API ClientID
-var IBM_CLIENT_ID = "YOUR_CLIENT_ID_HERE";
+var IBM_CLIENT_ID = "77423b87-31a4-48fc-b14e-e2deed392060";
 
 
 // Your API ClientSecret
-var IBM_CLIENT_SECRET = "YOUR_CLIENT_SECRET_HERE";
+var IBM_CLIENT_SECRET = "sM4qE3aI4gF5tC7hT3jL5yL8sX7cU8yS1qG8vA6gO6wT3bH8hM";
 
 
 /*
